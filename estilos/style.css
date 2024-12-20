@@ -48,14 +48,19 @@ section#login{
 
 section#login > div#imagem {
     display: block;
-    background: #5f2c82 url(../imagens/pexels-dinnow-86001860-9444476\ \(1\).jpg) no-repeat ;
+    background: #615c64 url(../imagens/pexels-dinnow-86001860-9444476\ \(1\).jpg) no-repeat ;
     height: 200px;
     background-size: cover;
-    background-position: center center;
+    background-position: center, center;
 }
 
 section#login > div#formulario {
     display: block;
     padding: 10px;
+
+
 }
+
+
+
 
